@@ -1,0 +1,29 @@
+{
+  "name": "my-qiniu",
+  "version": "1.0.0",
+  "description": "Yet another node js client for qiniu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoukunhuai/my-qiniu.git"
+  },
+  "keywords": [
+    "node",
+    "qiniu"
+  ],
+  "author": "Shoukun Huai",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shoukunhuai/my-qiniu/issues"
+  },
+  "homepage": "https://github.com/shoukunhuai/my-qiniu#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1"
+  }
+}
